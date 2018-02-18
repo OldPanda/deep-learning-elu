@@ -1,0 +1,5 @@
+Required Packages:
+1. Python 3.x 
+2. TensorFlow 1.x
+3. Pandas
+4. numpy
